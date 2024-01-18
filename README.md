@@ -3,6 +3,9 @@
 ## Website UI
 ![Home Page](https://github.com/CCJH23/Fin-Bros/blob/be0995f8a55ce4e9928261d36c6c2db35ee0bf6f/homepage2.png)
 
+## Architecture Flow
+![Architecture Flow](https://github.com/CCJH23/Fin-Bros/blob/91a229309532720ad2c6f805c16432d4f9aebea6/Architecture%20Flow.png)
+
 ## Start frontend app:
 
 - ```cd frontend```
